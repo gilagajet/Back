@@ -8,7 +8,7 @@
 #                                                                     #
 # =================================================================== #
 
-name: Totolink-X5000R
+name: Totolink-X5000R Beta
 
 on:
   workflow_dispatch:
